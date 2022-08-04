@@ -1,0 +1,15 @@
+.floated {
+  background-color: white;
+  float: left;
+  margin-top: 0%;
+  margin-right: 5px;
+  height: 80%;
+  width: 60%;
+}
+.floated-right {
+  background-color: white;
+  float: right;
+  margin-top: 0%s;
+  height: 30%;
+  width: 30%;
+}
